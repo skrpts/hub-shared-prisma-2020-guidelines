@@ -3,7 +3,7 @@ id: "22642423-b289-4c34-a31e-91581fc26d15"
 name: "prisma-2020-guidelines"
 display_name: "PRISMA 2020 Guidelines"
 description: "Preferred Reporting Items for Systematic reviews and Meta-Analyses, 2020 update"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
